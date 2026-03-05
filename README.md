@@ -32,22 +32,29 @@ SQLite using Entity Framework Core
 
 **Running the Frontend**
 
-Navigate to the frontend folder:
-
-cd user-directory-ui
-
-Install dependencies:
-
-npm install
-
-**Run the development server:**
-
+- Navigate to the frontend folder:
+```
+	cd user-directory-ui
+```
+- Install dependencies:
+```
+	npm install
+```
+- Run the development server:
+```
 npm run dev
+```
+- Open:
+```
+	http://localhost:5173
+```
 
-Open:
-
-http://localhost:5173
-
+**Running the Backend**
+```
+cd backend/UserDirectory.Api
+dotnet restore
+dotnet run
+```
 
 # Project Structure
 
@@ -90,3 +97,16 @@ UserDirectory.API/
 	
 	Properties/
 	
+
+---
+
+# Assignment Coverage 
+
+- All requested API endpoints (/api/users) are done.
+- Bonus features (security, docker and unit test) not done.
+
+
+# AI Tool Usage
+
+- ChatGPT used for Frontend application development heavily (80%).
+- ChatGPT used for review of backend application and design review (10%).
