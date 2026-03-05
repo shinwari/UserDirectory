@@ -30,11 +30,21 @@ SQLite using Entity Framework Core
 
 # How to run the application
 
+**Running the Backend**
+```
+cd backend/UserDirectory.Api
+dotnet restore
+dotnet run --launch-profile https
+```
+This will run the backend server (https://localhost:7018).
+There is sample data in the database.
+
+
 **Running the Frontend**
 
 - Navigate to the frontend folder:
 ```
-	cd user-directory-ui
+	cd frontend/user-directory-ui
 ```
 - Install dependencies:
 ```
@@ -42,19 +52,13 @@ SQLite using Entity Framework Core
 ```
 - Run the development server:
 ```
-npm run dev
+	npm run dev
 ```
 - Open:
 ```
-	http://localhost:5173
+	http://localhost:5174
 ```
 
-**Running the Backend**
-```
-cd backend/UserDirectory.Api
-dotnet restore
-dotnet run
-```
 
 # Project Structure
 
