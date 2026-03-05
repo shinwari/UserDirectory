@@ -25,7 +25,7 @@ Database
 SQLite using Entity Framework Core
 
 
-
+# Overview 
 
 React (Port 5173)
       |
@@ -40,8 +40,7 @@ Vite Proxy
 SQLite (data/app.db)
 
 
-
-
+# How to run the application
 
 Running the Frontend
 
@@ -62,8 +61,7 @@ Open:
 http://localhost:5173
 
 
-
-Project Structure
+# Project Structure
 
 Frontend
 
