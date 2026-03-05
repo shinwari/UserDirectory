@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Work\\Job Hunt\\Contract Hunt - Feb 2026\\02 Feb\\26 - CFS - Software Engineer - Through Bilal Obaid\\UserDirectory\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98B70D82-9B09-4697-9177-80031D741DE7}|UserDirectory.API\\UserDirectory.API.csproj|c:\\work\\job hunt\\contract hunt - feb 2026\\02 feb\\26 - cfs - software engineer - through bilal obaid\\userdirectory\\backend\\userdirectory.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{98B70D82-9B09-4697-9177-80031D741DE7}|UserDirectory.API\\UserDirectory.API.csproj|solutionrelative:userdirectory.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98B70D82-9B09-4697-9177-80031D741DE7}|UserDirectory.API\\UserDirectory.API.csproj|c:\\work\\job hunt\\contract hunt - feb 2026\\02 feb\\26 - cfs - software engineer - through bilal obaid\\userdirectory\\backend\\userdirectory.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98B70D82-9B09-4697-9177-80031D741DE7}|UserDirectory.API\\UserDirectory.API.csproj|solutionrelative:userdirectory.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98B70D82-9B09-4697-9177-80031D741DE7}|UserDirectory.API\\UserDirectory.API.csproj|c:\\work\\job hunt\\contract hunt - feb 2026\\02 feb\\26 - cfs - software engineer - through bilal obaid\\userdirectory\\backend\\userdirectory.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{98B70D82-9B09-4697-9177-80031D741DE7}|UserDirectory.API\\UserDirectory.API.csproj|solutionrelative:userdirectory.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98B70D82-9B09-4697-9177-80031D741DE7}|UserDirectory.API\\UserDirectory.API.csproj|c:\\work\\job hunt\\contract hunt - feb 2026\\02 feb\\26 - cfs - software engineer - through bilal obaid\\userdirectory\\backend\\userdirectory.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98B70D82-9B09-4697-9177-80031D741DE7}|UserDirectory.API\\UserDirectory.API.csproj|solutionrelative:userdirectory.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98B70D82-9B09-4697-9177-80031D741DE7}|UserDirectory.API\\UserDirectory.API.csproj|c:\\work\\job hunt\\contract hunt - feb 2026\\02 feb\\26 - cfs - software engineer - through bilal obaid\\userdirectory\\backend\\userdirectory.api\\dbcontexts\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98B70D82-9B09-4697-9177-80031D741DE7}|UserDirectory.API\\UserDirectory.API.csproj|solutionrelative:userdirectory.api\\dbcontexts\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98B70D82-9B09-4697-9177-80031D741DE7}|UserDirectory.API\\UserDirectory.API.csproj|c:\\work\\job hunt\\contract hunt - feb 2026\\02 feb\\26 - cfs - software engineer - through bilal obaid\\userdirectory\\backend\\userdirectory.api\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98B70D82-9B09-4697-9177-80031D741DE7}|UserDirectory.API\\UserDirectory.API.csproj|solutionrelative:userdirectory.api\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98B70D82-9B09-4697-9177-80031D741DE7}|UserDirectory.API\\UserDirectory.API.csproj|c:\\work\\job hunt\\contract hunt - feb 2026\\02 feb\\26 - cfs - software engineer - through bilal obaid\\userdirectory\\backend\\userdirectory.api\\services\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98B70D82-9B09-4697-9177-80031D741DE7}|UserDirectory.API\\UserDirectory.API.csproj|solutionrelative:userdirectory.api\\services\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98B70D82-9B09-4697-9177-80031D741DE7}|UserDirectory.API\\UserDirectory.API.csproj|c:\\work\\job hunt\\contract hunt - feb 2026\\02 feb\\26 - cfs - software engineer - through bilal obaid\\userdirectory\\backend\\userdirectory.api\\services\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98B70D82-9B09-4697-9177-80031D741DE7}|UserDirectory.API\\UserDirectory.API.csproj|solutionrelative:userdirectory.api\\services\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Work\\Job Hunt\\Contract Hunt - Feb 2026\\02 Feb\\26 - CFS - Software Engineer - Through Bilal Obaid\\UserDirectory\\backend\\UserDirectory.API\\Program.cs",
+              "RelativeDocumentMoniker": "UserDirectory.API\\Program.cs",
+              "ToolTip": "C:\\Work\\Job Hunt\\Contract Hunt - Feb 2026\\02 Feb\\26 - CFS - Software Engineer - Through Bilal Obaid\\UserDirectory\\backend\\UserDirectory.API\\Program.cs",
+              "RelativeToolTip": "UserDirectory.API\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T12:14:53.606Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Work\\Job Hunt\\Contract Hunt - Feb 2026\\02 Feb\\26 - CFS - Software Engineer - Through Bilal Obaid\\UserDirectory\\backend\\UserDirectory.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "UserDirectory.API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Work\\Job Hunt\\Contract Hunt - Feb 2026\\02 Feb\\26 - CFS - Software Engineer - Through Bilal Obaid\\UserDirectory\\backend\\UserDirectory.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "UserDirectory.API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwDgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T12:23:39.106Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Work\\Job Hunt\\Contract Hunt - Feb 2026\\02 Feb\\26 - CFS - Software Engineer - Through Bilal Obaid\\UserDirectory\\backend\\UserDirectory.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "UserDirectory.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Work\\Job Hunt\\Contract Hunt - Feb 2026\\02 Feb\\26 - CFS - Software Engineer - Through Bilal Obaid\\UserDirectory\\backend\\UserDirectory.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "UserDirectory.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-05T06:43:47.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Work\\Job Hunt\\Contract Hunt - Feb 2026\\02 Feb\\26 - CFS - Software Engineer - Through Bilal Obaid\\UserDirectory\\backend\\UserDirectory.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "UserDirectory.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Work\\Job Hunt\\Contract Hunt - Feb 2026\\02 Feb\\26 - CFS - Software Engineer - Through Bilal Obaid\\UserDirectory\\backend\\UserDirectory.API\\appsettings.Development.json",
+              "RelativeToolTip": "UserDirectory.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-05T06:06:06.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserContext.cs",
+              "DocumentMoniker": "C:\\Work\\Job Hunt\\Contract Hunt - Feb 2026\\02 Feb\\26 - CFS - Software Engineer - Through Bilal Obaid\\UserDirectory\\backend\\UserDirectory.API\\DbContexts\\UserContext.cs",
+              "RelativeDocumentMoniker": "UserDirectory.API\\DbContexts\\UserContext.cs",
+              "ToolTip": "C:\\Work\\Job Hunt\\Contract Hunt - Feb 2026\\02 Feb\\26 - CFS - Software Engineer - Through Bilal Obaid\\UserDirectory\\backend\\UserDirectory.API\\DbContexts\\UserContext.cs",
+              "RelativeToolTip": "UserDirectory.API\\DbContexts\\UserContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T05:05:02.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Work\\Job Hunt\\Contract Hunt - Feb 2026\\02 Feb\\26 - CFS - Software Engineer - Through Bilal Obaid\\UserDirectory\\backend\\UserDirectory.API\\Services\\UserRepository.cs",
+              "RelativeDocumentMoniker": "UserDirectory.API\\Services\\UserRepository.cs",
+              "ToolTip": "C:\\Work\\Job Hunt\\Contract Hunt - Feb 2026\\02 Feb\\26 - CFS - Software Engineer - Through Bilal Obaid\\UserDirectory\\backend\\UserDirectory.API\\Services\\UserRepository.cs",
+              "RelativeToolTip": "UserDirectory.API\\Services\\UserRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAhwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T04:44:21.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Work\\Job Hunt\\Contract Hunt - Feb 2026\\02 Feb\\26 - CFS - Software Engineer - Through Bilal Obaid\\UserDirectory\\backend\\UserDirectory.API\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "UserDirectory.API\\Entities\\User.cs",
+              "ToolTip": "C:\\Work\\Job Hunt\\Contract Hunt - Feb 2026\\02 Feb\\26 - CFS - Software Engineer - Through Bilal Obaid\\UserDirectory\\backend\\UserDirectory.API\\Entities\\User.cs",
+              "RelativeToolTip": "UserDirectory.API\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T04:34:07.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Work\\Job Hunt\\Contract Hunt - Feb 2026\\02 Feb\\26 - CFS - Software Engineer - Through Bilal Obaid\\UserDirectory\\backend\\UserDirectory.API\\Services\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "UserDirectory.API\\Services\\IUserRepository.cs",
+              "ToolTip": "C:\\Work\\Job Hunt\\Contract Hunt - Feb 2026\\02 Feb\\26 - CFS - Software Engineer - Through Bilal Obaid\\UserDirectory\\backend\\UserDirectory.API\\Services\\IUserRepository.cs",
+              "RelativeToolTip": "UserDirectory.API\\Services\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T04:05:19.646Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
